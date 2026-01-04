@@ -123,7 +123,7 @@
         "id": "mon_4",
         "style": "🚫 Stop Doing This (Anti-Pattern)",
         "templates": {
-          "niche_creator": "Stop deploy ke production di hari Jumat! Ingatkan bahaya merusak weekend dengan bug fixing.",
+          "niche_creator": "Stop koding barbar tanpa baca dokumentasi/brief dulu! Ingatkan bahwa 1 jam perencanaan di hari Senin bisa menghemat 10 jam debugging di hari Jumat.",
           "niche_fashion": "Stop beli baju cuma karena diskon tapi gak muat. Ingatkan tentang 'Mindful Shopping'.",
           "niche_foodie": "Stop simpan sayur basah di kulkas pakai plastik kresek. Kasih tahu cara simpan biar awet.",
           "niche_fitness": "Stop latihan perut tiap hari biar sixpack. Jelaskan kalau otot butuh istirahat untuk tumbuh.",
