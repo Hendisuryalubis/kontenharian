@@ -1,0 +1,226 @@
+[
+  {
+    "tanggal": "2026-01-01",
+    "tanggal_display": "Kamis, 1 Januari 2026",
+    "keterangan": "Tahun Baru 2026 Masehi",
+    "id": "event_newyear",
+    "style": "🎉 Edisi Spesial: Tahun Baru 2026",
+    "core_instruction": "Hari ini adalah Tahun Baru 2026. Buatlah konten yang mengajak {{target_audience}} untuk menyusun 'Resolusi Baru' atau 'Roadmap' dalam bidang {{user_niche}}. Gunakan tone yang penuh harapan dan semangat baru."
+  },
+  {
+    "tanggal": "2026-01-16",
+    "tanggal_display": "Jumat, 16 Januari 2026",
+    "keterangan": "Isra Mikraj Nabi Muhammad S.A.W.",
+    "id": "event_isramikraj",
+    "style": "🕌 Edisi Spesial: Isra Mikraj",
+    "core_instruction": "Peringati Isra Mikraj. Hubungkan makna 'Perjalanan Spiritual' atau 'Kenaikan Level' dengan proses perjuangan {{target_audience}} di dunia {{user_niche}}. Fokus pada pentingnya iman dan ilmu."
+  },
+  {
+    "tanggal": "2026-02-17",
+    "tanggal_display": "Selasa, 17 Februari 2026",
+    "keterangan": "Tahun Baru Imlek 2577 Kongzili",
+    "id": "event_imlek",
+    "style": "🧧 Edisi Spesial: Imlek 2577",
+    "core_instruction": "Ucapkan Gong Xi Fa Cai. Hubungkan simbol 'Keberuntungan' (Hoki) dan 'Kemakmuran' dengan kerja keras di bidang {{user_niche}}. Gunakan analogi Angpao atau Warna Merah yang relevan dengan tokomu/jasamu."
+  },
+  {
+    "tanggal": "2026-03-19",
+    "tanggal_display": "Kamis, 19 Maret 2026",
+    "keterangan": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+    "id": "event_nyepi",
+    "style": "🔇 Edisi Spesial: Nyepi",
+    "core_instruction": "Hormati Hari Raya Nyepi. Ajak {{target_audience}} untuk melakukan 'Digital Detox', 'Reset Sistem', atau 'Evaluasi Diri' dalam keheningan sejenak dari hiruk pikuk dunia {{user_niche}}. Tekankan pentingnya jeda."
+  },
+  {
+    "tanggal": "2026-03-21",
+    "tanggal_display": "Sabtu, 21 Maret 2026",
+    "keterangan": "Idul Fitri 1447 Hijriah",
+    "id": "event_idulfitri_1",
+    "style": "🕌 Edisi Spesial: Idul Fitri (H1)",
+    "core_instruction": "Hari Kemenangan! Sampaikan ucapan 'Minal Aidin Wal Faizin' kepada klien/followers di niche {{user_niche}}. Fokus pada tema 'Kembali Fitri' (Reset ke Nol) dan mempererat silaturahmi profesional."
+  },
+  {
+    "tanggal": "2026-03-22",
+    "tanggal_display": "Minggu, 22 Maret 2026",
+    "keterangan": "Idul Fitri 1447 Hijriah",
+    "id": "event_idulfitri_2",
+    "style": "🕌 Edisi Spesial: Idul Fitri (H2)",
+    "core_instruction": "Suasana Lebaran hari kedua. Buat konten santai tentang 'Open House' atau berkumpul keluarga, tapi selipkan humor ringan tentang pertanyaan 'Kapan nikah/sukses?' yang relate dengan pejuang {{user_niche}}."
+  },
+  {
+    "tanggal": "2026-04-03",
+    "tanggal_display": "Jumat, 3 April 2026",
+    "keterangan": "Wafat Yesus Kristus",
+    "id": "event_goodfriday",
+    "style": "✝️ Edisi Spesial: Jumat Agung",
+    "core_instruction": "Peringati Jumat Agung (Good Friday). Sampaikan pesan damai tentang 'Pengorbanan' dan 'Kasih' yang relevan secara universal bagi komunitas {{user_niche}}. Jaga tone tetap syahdu dan hormat."
+  },
+  {
+    "tanggal": "2026-04-05",
+    "tanggal_display": "Minggu, 5 April 2026",
+    "keterangan": "Kebangkitan Yesus Kristus (Paskah)",
+    "id": "event_easter",
+    "style": "🥚 Edisi Spesial: Paskah",
+    "core_instruction": "Rayakan Paskah. Hubungkan tema 'Kebangkitan' atau 'Harapan Baru' dengan semangat bangkit dari kegagalan bagi seorang {{target_audience}} di bidang {{user_niche}}."
+  },
+  {
+    "tanggal": "2026-04-21",
+    "tanggal_display": "Selasa, 21 April 2026",
+    "keterangan": "Hari Kartini",
+    "id": "event_kartini",
+    "style": "👩 Edisi Spesial: Hari Kartini",
+    "core_instruction": "Rayakan semangat emansipasi wanita. Angkat profil tokoh wanita inspiratif di bidang {{user_niche}} atau berikan motivasi khusus bagi wanita karir/pengusaha wanita di audiensmu."
+  },
+  {
+    "tanggal": "2026-05-01",
+    "tanggal_display": "Jumat, 1 Mei 2026",
+    "keterangan": "Hari Buruh Internasional",
+    "id": "event_mayday",
+    "style": "🛠️ Edisi Spesial: Hari Buruh",
+    "core_instruction": "Selamat Hari Buruh (May Day)! Ingatkan {{target_audience}} bahwa istirahat adalah hak. Jangan memuliakan 'Hustle Culture' yang toxic di dunia {{user_niche}}. Ajak mereka chill sejenak."
+  },
+  {
+    "tanggal": "2026-05-02",
+    "tanggal_display": "Sabtu, 2 Mei 2026",
+    "keterangan": "Hari Pendidikan Nasional",
+    "id": "event_hardiknas",
+    "style": "🎓 Edisi Spesial: Hardiknas",
+    "core_instruction": "Peringati Hardiknas. Tekankan pentingnya 'Lifelong Learning' (Belajar Terus) di industri {{user_niche}} yang cepat berubah. Share satu sumber belajar favoritmu."
+  },
+  {
+    "tanggal": "2026-05-14",
+    "tanggal_display": "Kamis, 14 Mei 2026",
+    "keterangan": "Kenaikan Yesus Kristus",
+    "id": "event_ascension",
+    "style": "✝️ Edisi Spesial: Kenaikan Isa Almasih",
+    "core_instruction": "Peringati Kenaikan Isa Almasih. Sampaikan pesan damai dan harapan. Bisa dikaitkan dengan filosofi 'Naik Kelas' atau peningkatan kualitas diri dalam konteks positif."
+  },
+  {
+    "tanggal": "2026-05-20",
+    "tanggal_display": "Rabu, 20 Mei 2026",
+    "keterangan": "Hari Kebangkitan Nasional",
+    "id": "event_harkitnas",
+    "style": "🇮🇩 Edisi Spesial: Kebangkitan Nasional",
+    "core_instruction": "Momentum Kebangkitan Nasional. Ajak komunitas {{user_niche}} lokal untuk bangkit, berkolaborasi, dan mendukung produk/karya anak bangsa agar bisa bersaing global."
+  },
+  {
+    "tanggal": "2026-05-27",
+    "tanggal_display": "Rabu, 27 Mei 2026",
+    "keterangan": "Idul Adha 1447 Hijriah",
+    "id": "event_iduladha",
+    "style": "🐐 Edisi Spesial: Idul Adha",
+    "core_instruction": "Selamat Idul Adha. Hubungkan makna 'Berkurban' atau 'Berbagi' dengan etos kerja di {{user_niche}}. Ajak audiens menyisihkan sebagian rezeki hasil bisnis mereka untuk sesama."
+  },
+  {
+    "tanggal": "2026-05-31",
+    "tanggal_display": "Minggu, 31 Mei 2026",
+    "keterangan": "Hari Raya Waisak 2570 BE",
+    "id": "event_waisak",
+    "style": "🪷 Edisi Spesial: Waisak",
+    "core_instruction": "Selamat Hari Waisak. Angkat tema 'Mindfulness', 'Kesabaran', dan 'Kedamaian Hati' yang sangat dibutuhkan saat menghadapi tekanan kerja di bidang {{user_niche}}."
+  },
+  {
+    "tanggal": "2026-06-01",
+    "tanggal_display": "Senin, 1 Juni 2026",
+    "keterangan": "Hari Lahir Pancasila",
+    "id": "event_pancasila",
+    "style": "🇮🇩 Edisi Spesial: Lahir Pancasila",
+    "core_instruction": "Peringati Lahir Pancasila. Ingatkan tentang persatuan dalam keberagaman di komunitas {{user_niche}}. 'Beda skill/background tapi satu tujuan'."
+  },
+  {
+    "tanggal": "2026-06-16",
+    "tanggal_display": "Selasa, 16 Juni 2026",
+    "keterangan": "1 Muharam Tahun Baru Islam 1448 Hijriah",
+    "id": "event_muharam",
+    "style": "🌙 Edisi Spesial: 1 Muharram",
+    "core_instruction": "Selamat Tahun Baru Islam 1448 H. Ajak {{target_audience}} untuk 'Hijrah' dari kebiasaan buruk dalam bekerja/bisnis menuju produktivitas yang lebih berkah di tahun baru ini."
+  },
+  {
+    "tanggal": "2026-07-23",
+    "tanggal_display": "Kamis, 23 Juli 2026",
+    "keterangan": "Hari Anak Nasional",
+    "id": "event_harianak",
+    "style": "🎈 Edisi Spesial: Hari Anak",
+    "core_instruction": "Rayakan Hari Anak Nasional. Jika relevan, bahas tentang parenting bagi orang tua yang bekerja di {{user_niche}}, atau kenang cita-cita masa kecilmu sebelum terjun ke dunia ini."
+  },
+  {
+    "tanggal": "2026-08-17",
+    "tanggal_display": "Senin, 17 Agustus 2026",
+    "keterangan": "Proklamasi Kemerdekaan",
+    "id": "event_merdeka",
+    "style": "🇮🇩 Edisi Spesial: HUT RI ke-81",
+    "core_instruction": "MERDEKA! Dirgahayu Indonesia ke-81. Bahas makna 'Kemerdekaan Finansial' atau 'Kebebasan Waktu' yang didambakan oleh seorang {{user_niche}}. Gunakan nuansa Merah Putih."
+  },
+  {
+    "tanggal": "2026-08-25",
+    "tanggal_display": "Selasa, 25 Agustus 2026",
+    "keterangan": "Maulid Nabi Muhammad S.A.W.",
+    "id": "event_maulid",
+    "style": "🕌 Edisi Spesial: Maulid Nabi",
+    "core_instruction": "Peringati Maulid Nabi. Ajak meneladani sifat-sifat Rasul (Jujur, Amanah, Cerdas) dan terapkan dalam etika bisnis/kerja di dunia {{user_niche}}."
+  },
+  {
+    "tanggal": "2026-10-01",
+    "tanggal_display": "Kamis, 1 Oktober 2026",
+    "keterangan": "Hari Kesaktian Pancasila",
+    "id": "event_kesaktianpancasila",
+    "style": "🇮🇩 Edisi Spesial: Kesaktian Pancasila",
+    "core_instruction": "Hari Kesaktian Pancasila. Refleksi singkat tentang menjaga fondasi yang kuat, sama seperti menjaga fondasi bisnis/skill di {{user_niche}} agar tidak mudah goyah."
+  },
+  {
+    "tanggal": "2026-10-02",
+    "tanggal_display": "Jumat, 2 Oktober 2026",
+    "keterangan": "Hari Batik Nasional",
+    "id": "event_batik",
+    "style": "👕 Edisi Spesial: Hari Batik",
+    "core_instruction": "Selamat Hari Batik Nasional! Ajak audiens bangga pakai produk lokal. Tanya: 'Motif batik apa yang kalian pakai saat kerja/ngantor hari ini?' dalam konteks {{user_niche}}."
+  },
+  {
+    "tanggal": "2026-10-28",
+    "tanggal_display": "Rabu, 28 Oktober 2026",
+    "keterangan": "Hari Sumpah Pemuda",
+    "id": "event_sumpahpemuda",
+    "style": "✊ Edisi Spesial: Sumpah Pemuda",
+    "core_instruction": "Sumpah Pemuda! Bakar semangat anak muda di komunitas {{user_niche}}. 'Satu Nusa, Satu Bangsa, Satu Passion'. Dorong kolaborasi lintas daerah."
+  },
+  {
+    "tanggal": "2026-11-10",
+    "tanggal_display": "Selasa, 10 November 2026",
+    "keterangan": "Hari Pahlawan",
+    "id": "event_pahlawan",
+    "style": "🦸 Edisi Spesial: Hari Pahlawan",
+    "core_instruction": "Hari Pahlawan. Siapa 'Pahlawan' (Mentor/Tokoh) dalam karir {{user_niche}}-mu? Ajak audiens berterima kasih kepada orang yang telah membantu mereka sampai di titik ini."
+  },
+  {
+    "tanggal": "2026-11-12",
+    "tanggal_display": "Kamis, 12 November 2026",
+    "keterangan": "Hari Ayah Nasional",
+    "id": "event_hariayah",
+    "style": "👨 Edisi Spesial: Hari Ayah",
+    "core_instruction": "Selamat Hari Ayah. Apresiasi para ayah yang bekerja keras di bidang {{user_niche}} demi keluarga. Atau cerita tentang pelajaran kerja keras yang didapat dari sosok ayah."
+  },
+  {
+    "tanggal": "2026-11-25",
+    "tanggal_display": "Rabu, 25 November 2026",
+    "keterangan": "Hari Guru Nasional",
+    "id": "event_hariguru",
+    "style": "🧑‍🏫 Edisi Spesial: Hari Guru",
+    "core_instruction": "Terima kasih Guru! Dalam konteks {{user_niche}}, guru bisa berarti dosen, mentor online, atau bahkan tutorial YouTube. Ajak audiens mengapresiasi sumber ilmu mereka."
+  },
+  {
+    "tanggal": "2026-12-22",
+    "tanggal_display": "Selasa, 22 Desember 2026",
+    "keterangan": "Hari Ibu",
+    "id": "event_hariibu",
+    "style": "👩‍👧‍👦 Edisi Spesial: Hari Ibu",
+    "core_instruction": "Selamat Hari Ibu. Dedikasikan kesuksesanmu di {{user_niche}} untuk Ibu. Ingatkan audiens untuk telepon/peluk ibu mereka hari ini di sela-sela kesibukan kerja."
+  },
+  {
+    "tanggal": "2026-12-25",
+    "tanggal_display": "Jumat, 25 Desember 2026",
+    "keterangan": "Kelahiran Yesus Kristus",
+    "id": "event_natal",
+    "style": "🎄 Edisi Spesial: Natal",
+    "core_instruction": "Merry Christmas! Ucapkan selamat Natal bagi yang merayakan. Hubungkan suasana 'Joy' dan 'Giving' dengan berbagi ilmu atau hadiah kecil kepada komunitas {{user_niche}}."
+  }
+]
