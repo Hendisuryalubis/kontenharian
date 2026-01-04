@@ -1,0 +1,300 @@
+{
+  "profiles": [
+    {
+      "id": "niche_creator",
+      "label": "🎨 Digital Creator & Affiliate",
+      "settings": {
+        "user_niche": "Digital Product Creator & Web Developer",
+        "target_audience": "Freelancer, Programmer Pemula, Solopreneur",
+        "tone_voice": "Casual, Insightful, Praktis, No Bullshit",
+        "language": "Indonesian (Gaul tapi Sopan)"
+      }
+    },
+    {
+      "id": "niche_fashion",
+      "label": "👗 Fashion & Beauty Model",
+      "settings": {
+        "user_niche": "Fashion Model & Beauty Influencer",
+        "target_audience": "Fashionista, Gen Z, Pencari Style Inspiration",
+        "tone_voice": "Chic, Bestie-vibes, Aesthetic, Empowering",
+        "language": "Indonesian (Campur English Jaksel)"
+      }
+    },
+    {
+      "id": "niche_foodie",
+      "label": "🍳 Culinary & Food Vlogger",
+      "settings": {
+        "user_niche": "Home Cooking & Street Food Reviewer",
+        "target_audience": "Ibu Rumah Tangga, Anak Kos, Pecinta Kuliner",
+        "tone_voice": "Menggugah Selera, Energetic, Ramah, 'Nyam Nyam'",
+        "language": "Indonesian (Santai & Bikin Laper)"
+      }
+    },
+    {
+      "id": "niche_fitness",
+      "label": "💪 Health & Fitness Coach",
+      "settings": {
+        "user_niche": "Personal Trainer & Diet Coach",
+        "target_audience": "Orang yang ingin kurus, Gym beginners, Pekerja kantoran",
+        "tone_voice": "Semangat, Motivasi Tinggi, Tegas tapi Supportif",
+        "language": "Indonesian (Energetik)"
+      }
+    },
+    {
+      "id": "niche_finance",
+      "label": "📈 Financial Advisor & Crypto",
+      "settings": {
+        "user_niche": "Financial Planner & Investor",
+        "target_audience": "First Jobber, Pasangan Muda, Investor Pemula",
+        "tone_voice": "Professional, Trustworthy, Edukatif, Data-driven",
+        "language": "Indonesian (Formal tapi Mudah Dimengerti)"
+      }
+    },
+    {
+      "id": "niche_travel",
+      "label": "✈️ Travel & Lifestyle Blogger",
+      "settings": {
+        "user_niche": "Travel Vlogger & Staycation Reviewer",
+        "target_audience": "Backpacker, Pasangan Honeymoon, Keluarga Liburan",
+        "tone_voice": "Adventurous, Storytelling, Visual, Seru",
+        "language": "Indonesian (Deskriptif & Asik)"
+      }
+    },
+    {
+      "id": "niche_umkm",
+      "label": "📦 UMKM & Bisnis Online",
+      "settings": {
+        "user_niche": "Owner Bisnis Online & Marketplace Seller",
+        "target_audience": "Reseller, Dropshipper, Pengusaha Pemula",
+        "tone_voice": "Relatable, Perjuangan, Tips Bisnis Realistis",
+        "language": "Indonesian (Merakyat & To the Point)"
+      }
+    }
+  ],
+  "daily_formulas": {
+    "senin": [
+      {
+        "id": "mon_1",
+        "style": "🧠 Mindset & Strategy (Wake Up Call)",
+        "core_instruction": "Identifikasi satu pola pikir negatif (limiting belief) yang sering menghambat {{target_audience}} di bidang {{user_niche}} saat memulai minggu. Berikan strategi psikologis untuk mengubah pola pikir tersebut menjadi produktivitas."
+      },
+      {
+        "id": "mon_2",
+        "style": "🔥 Hardcore Motivation (No Excuses)",
+        "core_instruction": "Berikan motivasi gaya 'Tough Love' (tegas/keras) untuk {{target_audience}} yang sedang merasa malas atau insecure di bidang {{user_niche}}. Tegaskan bahwa hasil tidak akan mengkhianati usaha. Jangan terlalu lembek."
+      },
+      {
+        "id": "mon_3",
+        "style": "🎯 Weekly Goals (Action Plan)",
+        "core_instruction": "Ajak {{target_audience}} untuk menetapkan 3 target spesifik di bidang {{user_niche}} minggu ini. Berikan contoh target yang realistis namun menantang, lalu minta mereka menulis target mereka di kolom komentar."
+      },
+      {
+        "id": "mon_4",
+        "style": "🚫 Stop Doing This (Anti-Pattern)",
+        "core_instruction": "Peringatkan {{target_audience}} tentang satu kebiasaan buruk atau kesalahan fatal yang sering mereka lakukan di hari Senin terkait {{user_niche}}. Jelaskan dampak buruk jangka panjangnya dan apa yang harus dilakukan sebagai gantinya."
+      },
+      {
+        "id": "mon_5",
+        "style": "💬 Quote of The Week (Inspirasi)",
+        "core_instruction": "Cari kutipan (quote) dari tokoh terkenal dunia yang relevan dengan filosofi {{user_niche}}. Jelaskan interpretasimu tentang quote tersebut dan bagaimana {{target_audience}} bisa menerapkannya dalam pekerjaan/hidup mereka minggu ini."
+      },
+      {
+        "id": "mon_6",
+        "style": "🤝 Engagement Bait (Small Interaction)",
+        "core_instruction": "Buat pertanyaan ringan atau pilihan 'This or That' yang sangat spesifik dan relate dengan kehidupan sehari-hari {{target_audience}} di niche {{user_niche}}. Tujuannya murni untuk memancing komentar receh."
+      }
+    ],
+    "selasa": [
+      {
+        "id": "tue_1",
+        "style": "🛠️ Hard Skill Tutorial (Quick Tip)",
+        "core_instruction": "Pilih satu teknik teknis atau skill spesifik dalam {{user_niche}} yang sering dianggap susah oleh pemula. Buat tutorial singkat (langkah demi langkah) untuk menyelesaikannya dengan cara yang lebih mudah/cepat."
+      },
+      {
+        "id": "tue_2",
+        "style": "🔍 Tools/Product Review (Bedah Alat)",
+        "core_instruction": "Review satu alat, aplikasi, atau produk fisik yang populer di kalangan {{user_niche}}. Berikan penilaian jujur (Kelebihan vs Kekurangan) dan apakah alat tersebut 'Worth It' untuk dibeli oleh {{target_audience}}."
+      },
+      {
+        "id": "tue_3",
+        "style": "⚡ Productivity Hack (Work Smarter)",
+        "core_instruction": "Bagikan satu 'Life Hack' atau jalan pintas produktivitas yang jarang diketahui orang di bidang {{user_niche}}. Tunjukkan bagaimana hack ini bisa menghemat waktu kerja {{target_audience}} secara signifikan."
+      },
+      {
+        "id": "tue_4",
+        "style": "📖 Dictionary/Terminologi (Edukasi)",
+        "core_instruction": "Pilih satu istilah asing/jargon teknis dalam {{user_niche}} yang sering membingungkan {{target_audience}}. Jelaskan arti istilah tersebut menggunakan analogi sederhana yang mudah dipahami orang awam."
+      },
+      {
+        "id": "tue_5",
+        "style": "📋 Checklist/Cheatsheet (Saveable)",
+        "core_instruction": "Buatlah daftar periksa (Checklist) berisi 5-7 poin penting yang harus disiapkan atau dicek oleh {{target_audience}} sebelum melakukan aktivitas utama dalam {{user_niche}}. Kemas agar konten ini layak di-save."
+      },
+      {
+        "id": "tue_6",
+        "style": "📰 Industry News (Trending)",
+        "core_instruction": "Identifikasi satu tren atau berita terbaru yang sedang hangat di dunia {{user_niche}}. Berikan ringkasan berita tersebut dan opinimu mengenai dampaknya bagi {{target_audience}}."
+      }
+    ],
+    "rabu": [
+      {
+        "id": "wed_1",
+        "style": "📊 Case Study (Deep Dive)",
+        "core_instruction": "Ambil satu contoh sukses (atau kegagalan besar) dari brand/tokoh terkenal di bidang {{user_niche}}. Bedah apa rahasia di balik kejadian tersebut dan pelajaran apa yang bisa diambil oleh {{target_audience}}."
+      },
+      {
+        "id": "wed_2",
+        "style": "🆚 This vs That (Battle)",
+        "core_instruction": "Bandingkan dua hal yang sering diperdebatkan dalam {{user_niche}} (Contoh: Alat A vs Alat B, Metode X vs Metode Y). Berikan analisis objektif mana yang lebih baik untuk situasi tertentu."
+      },
+      {
+        "id": "wed_3",
+        "style": "💡 Lightbulb Moment (Insight)",
+        "core_instruction": "Bagikan sebuah realisasi atau 'momen sadar' yang mengubah caramu memandang industri {{user_niche}}. Tujuannya memberikan wawasan baru yang filosofis namun praktis kepada {{target_audience}}."
+      },
+      {
+        "id": "wed_4",
+        "style": "🚦 Mid-Week Checkpoint (Evaluasi)",
+        "core_instruction": "Ajak {{target_audience}} untuk berhenti sejenak dan mengevaluasi progres mereka di pertengahan minggu ini. Berikan tips singkat untuk mengatasi rasa jenuh (burnout) yang biasanya muncul di hari Rabu dalam konteks {{user_niche}}."
+      },
+      {
+        "id": "wed_5",
+        "style": "📖 Storytelling (Perjalananku)",
+        "core_instruction": "Ceritakan pengalaman pribadimu (atau cerita klien) yang menyentuh emosi terkait perjuangan di bidang {{user_niche}}. Bisa berupa cerita kegagalan masa lalu atau perjuangan dari nol. Tunjukkan sisi manusiawi."
+      },
+      {
+        "id": "wed_6",
+        "style": "🎤 Audience Spotlight (Shoutout)",
+        "core_instruction": "Buat konten yang bertujuan mengapresiasi komunitas/follower. Minta {{target_audience}} untuk menceritakan pencapaian kecil mereka di kolom komentar, atau share testimoni/karya salah satu follower."
+      }
+    ],
+    "kamis": [
+      {
+        "id": "thu_1",
+        "style": "⚠️ Common Mistakes (Fatal Error)",
+        "core_instruction": "Sebutkan satu kesalahan fatal yang sering dilakukan pemula di {{user_niche}} tapi mereka tidak menyadarinya. Jelaskan mengapa itu salah dan berikan solusi perbaikannya."
+      },
+      {
+        "id": "thu_2",
+        "style": "🧠 Mitos vs Fakta (Debunking)",
+        "core_instruction": "Pilih satu mitos populer yang dipercaya banyak orang di dunia {{user_niche}}. Bantah mitos tersebut dengan fakta atau data yang logis, dan luruskan pemahaman {{target_audience}}."
+      },
+      {
+        "id": "thu_3",
+        "style": "🕰️ Throwback Thursday (Nostalgia)",
+        "core_instruction": "Ajak {{target_audience}} bernostalgia tentang bagaimana kondisi industri {{user_niche}} 5-10 tahun yang lalu. Bandingkan dengan kemudahan teknologi/fasilitas jaman sekarang."
+      },
+      {
+        "id": "thu_4",
+        "style": "🥊 Unpopular Opinion (Kontroversi)",
+        "core_instruction": "Lontarkan satu opini yang kontroversial atau tidak populer (berlawanan dengan arus mainstream) mengenai topik hangat di {{user_niche}}. Minta pendapat {{target_audience}} apakah mereka setuju atau tidak (Debat sehat)."
+      },
+      {
+        "id": "thu_5",
+        "style": "⚙️ How It Works (Process Breakdown)",
+        "core_instruction": "Jelaskan cara kerja (mekanisme) di balik sebuah fenomena atau sistem dalam {{user_niche}} yang sering dianggap 'magic' oleh orang awam. Urai prosesnya menjadi bahasa yang sangat sederhana."
+      },
+      {
+        "id": "thu_6",
+        "style": "🆘 Ask for Advice (Rendah Hati)",
+        "core_instruction": "Posisikan dirimu sebagai pihak yang butuh saran. Tanyakan rekomendasi atau pendapat {{target_audience}} tentang suatu masalah/pilihan di bidang {{user_niche}}. Biarkan mereka merasa pintar dengan memberi saran."
+      }
+    ],
+    "jumat": [
+      {
+        "id": "fri_1",
+        "style": "🎁 Resource Sharing (Freebies)",
+        "core_instruction": "Bagikan 3-5 rekomendasi sumber daya GRATIS (website, aplikasi, template, aset, ebook) yang sangat berguna untuk menunjang aktivitas {{user_niche}} bagi {{target_audience}}."
+      },
+      {
+        "id": "fri_2",
+        "style": "💰 Career/Money Tip (Cuan)",
+        "core_instruction": "Berikan tips spesifik tentang cara menghasilkan uang (monetisasi), menaikkan harga jasa, atau menghemat pengeluaran operasional di bidang {{user_niche}}."
+      },
+      {
+        "id": "fri_3",
+        "style": "🧘 Relax & Recharge (Self Care)",
+        "core_instruction": "Ingatkan {{target_audience}} pentingnya istirahat mental dari rutinitas {{user_niche}}. Berikan saran kegiatan santai (non-kerja) yang bisa me-recharge energi mereka untuk weekend."
+      },
+      {
+        "id": "fri_4",
+        "style": "🤝 Collab/Partner Shoutout (Networking)",
+        "core_instruction": "Berikan apresiasi kepada partner kerja, tool, atau mentor yang berjasa dalam karir {{user_niche}}-mu. Ajak {{target_audience}} untuk mention seseorang yang menginspirasi mereka."
+      },
+      {
+        "id": "fri_5",
+        "style": "🏆 Weekly Win (Celebration)",
+        "core_instruction": "Rayakan kemenangan kecil (Small Win) yang kamu atau komunitasmu capai minggu ini dalam konteks {{user_niche}}. Tanamkan mindset bahwa setiap progres, sekecil apapun, layak dirayakan."
+      },
+      {
+        "id": "fri_6",
+        "style": "⚡ Flash Sale/Soft Promo (Jualan)",
+        "core_instruction": "Buat penawaran promosi (jualan) untuk produk/jasamu yang relevan dengan {{user_niche}}. Gunakan teknik 'Scarcity' (keterbatasan waktu/jumlah) karena ini hari Jumat, tapi kemas dengan bahasa yang membantu, bukan memaksa."
+      }
+    ],
+    "sabtu": [
+      {
+        "id": "sat_1",
+        "style": "🎬 Behind The Scene (Unfiltered)",
+        "core_instruction": "Tunjukkan sisi 'berantakan' atau realita yang tidak estetik di balik pekerjaan seorang {{user_niche}}. Tujuannya agar {{target_audience}} tahu bahwa tidak ada kesempurnaan instan."
+      },
+      {
+        "id": "sat_2",
+        "style": "😂 Entertainment/Meme (Fun)",
+        "core_instruction": "Buat konten humor (Meme/Sketsa) yang sangat relate dengan penderitaan atau kejadian lucu sehari-hari yang dialami oleh pelaku {{user_niche}}. Fokus menghibur, bukan mengedukasi."
+      },
+      {
+        "id": "sat_3",
+        "style": "🎮 Hobby Reveal (Personal Side)",
+        "core_instruction": "Ceritakan hobi atau aktivitasmu di luar topik {{user_niche}}. Tunjukkan sisi personalmu sebagai manusia biasa kepada {{target_audience}} untuk membangun koneksi emosional."
+      },
+      {
+        "id": "sat_4",
+        "style": "🗳️ This or That Poll (Survey)",
+        "core_instruction": "Buat survey interaktif menggunakan fitur Polling (atau pertanyaan A vs B) tentang preferensi santai di dunia {{user_niche}}. (Contoh: Tim A atau Tim B?)."
+      },
+      {
+        "id": "sat_5",
+        "style": "📍 Local Spot/Recommendation (Jalan-Jalan)",
+        "core_instruction": "Rekomendasikan tempat, event, atau aktivitas offline yang seru untuk dikunjungi saat weekend. Bisa dikaitkan dengan {{user_niche}} (misal: pameran) atau murni lifestyle."
+      },
+      {
+        "id": "sat_6",
+        "style": "👪 Family/Friends Time (Life Balance)",
+        "core_instruction": "Bagikan momen kebersamaan dengan keluarga atau teman. Tunjukkan pesan moral bahwa sukses di {{user_niche}} tidak ada artinya tanpa waktu berkualitas bersama orang tersayang."
+      }
+    ],
+    "minggu": [
+      {
+        "id": "sun_1",
+        "style": "📅 Weekly Recap & Plan (Review)",
+        "core_instruction": "Buat ringkasan singkat apa saja yang terjadi di industri {{user_niche}} minggu ini, lalu ajak {{target_audience}} menyusun rencana kasar untuk menaklukkan hari Senin besok."
+      },
+      {
+        "id": "sun_2",
+        "style": "🙋‍♀️ Q&A Session (Ask Me)",
+        "core_instruction": "Buka sesi tanya jawab bebas (Q&A). Ajak {{target_audience}} menanyakan apapun tentang kesulitan yang mereka hadapi di {{user_niche}} atau hal pribadi yang relevan."
+      },
+      {
+        "id": "sun_3",
+        "style": "🚀 Get Ready for Monday (Preparation)",
+        "core_instruction": "Bagikan rutinitas hari Minggu malammu dalam mempersiapkan alat/mental untuk bekerja di bidang {{user_niche}} besok pagi. Ajak {{target_audience}} melakukan hal yang sama."
+      },
+      {
+        "id": "sun_4",
+        "style": "📢 Soft Sell / Promo (Storytelling)",
+        "core_instruction": "Ceritakan sebuah masalah yang sering dialami klien/pengguna di {{user_niche}}, lalu tawarkan produk/jasamu sebagai solusinya secara halus (Soft Selling) melalui cerita tersebut."
+      },
+      {
+        "id": "sun_5",
+        "style": "🙏 Gratitude Post (Syukur)",
+        "core_instruction": "Tulis ucapan syukur yang tulus atas hal-hal baik (rezeki, kesehatan, ilmu) yang didapat selama bergelut di dunia {{user_niche}} minggu ini. Ajak audiens bersyukur juga."
+      },
+      {
+        "id": "sun_6",
+        "style": "🗳️ Market Research (Survey)",
+        "core_instruction": "Tanyakan kepada {{target_audience}}, konten atau topik spesifik apa dalam {{user_niche}} yang ingin mereka pelajari minggu depan. Gunakan ini untuk riset ide konten."
+      }
+    ]
+  }
+}
