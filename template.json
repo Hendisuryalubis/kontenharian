@@ -1,0 +1,643 @@
+{
+  "profiles": [
+    {
+      "id": "niche_creator",
+      "label": "🎨 Digital Creator & Affiliate",
+      "settings": {
+        "user_niche": "Digital Product Creator & Web Developer",
+        "target_audience": "Freelancer, Programmer Pemula, Solopreneur",
+        "tone_voice": "Casual, Insightful, Praktis, No Bullshit",
+        "language": "Indonesian (Gaul tapi Sopan)"
+      }
+    },
+    {
+      "id": "niche_fashion",
+      "label": "👗 Fashion & Beauty Model",
+      "settings": {
+        "user_niche": "Fashion Model & Beauty Influencer",
+        "target_audience": "Fashionista, Gen Z, Pencari Style Inspiration",
+        "tone_voice": "Chic, Bestie-vibes, Aesthetic, Empowering",
+        "language": "Indonesian (Campur English Jaksel)"
+      }
+    },
+    {
+      "id": "niche_foodie",
+      "label": "🍳 Culinary & Food Vlogger",
+      "settings": {
+        "user_niche": "Home Cooking & Street Food Reviewer",
+        "target_audience": "Ibu Rumah Tangga, Anak Kos, Pecinta Kuliner",
+        "tone_voice": "Menggugah Selera, Energetic, Ramah, 'Nyam Nyam'",
+        "language": "Indonesian (Santai & Bikin Laper)"
+      }
+    },
+    {
+      "id": "niche_fitness",
+      "label": "💪 Health & Fitness Coach",
+      "settings": {
+        "user_niche": "Personal Trainer & Diet Coach",
+        "target_audience": "Orang yang ingin kurus, Gym beginners, Pekerja kantoran",
+        "tone_voice": "Semangat, Motivasi Tinggi, Tegas tapi Supportif",
+        "language": "Indonesian (Energetik)"
+      }
+    },
+    {
+      "id": "niche_finance",
+      "label": "📈 Financial Advisor & Crypto",
+      "settings": {
+        "user_niche": "Financial Planner & Investor",
+        "target_audience": "First Jobber, Pasangan Muda, Investor Pemula",
+        "tone_voice": "Professional, Trustworthy, Edukatif, Data-driven",
+        "language": "Indonesian (Formal tapi Mudah Dimengerti)"
+      }
+    },
+    {
+      "id": "niche_travel",
+      "label": "✈️ Travel & Lifestyle Blogger",
+      "settings": {
+        "user_niche": "Travel Vlogger & Staycation Reviewer",
+        "target_audience": "Backpacker, Pasangan Honeymoon, Keluarga Liburan",
+        "tone_voice": "Adventurous, Storytelling, Visual, Seru",
+        "language": "Indonesian (Deskriptif & Asik)"
+      }
+    },
+    {
+      "id": "niche_umkm",
+      "label": "📦 UMKM & Bisnis Online",
+      "settings": {
+        "user_niche": "Owner Bisnis Online & Marketplace Seller",
+        "target_audience": "Reseller, Dropshipper, Pengusaha Pemula",
+        "tone_voice": "Relatable, Perjuangan, Tips Bisnis Realistis",
+        "language": "Indonesian (Merakyat & To the Point)"
+      }
+    }
+  ],
+  "special_events": {
+    "holiday_formula": {
+      "id": "event_holiday",
+      "style": "🎉 Edisi Spesial Libur",
+      "prompt_template": "Hari ini adalah hari libur nasional: '{{holiday_name}}'. Lupakan konten teknis/jualan. Buatlah konten santai yang menghubungkan makna '{{holiday_name}}' dengan audiens {{user_niche}}. Fokus pada ucapan hangat dan doa baik."
+    }
+  },
+  "daily_formulas": {
+    "senin": [
+      {
+        "id": "mon_1",
+        "style": "🧠 Mindset & Strategy (Wake Up Call)",
+        "templates": {
+          "niche_creator": "Senin = Anti Procrastination. Bahas 'Analisis Paralysis' saat mulai project. Tips: 'Tulis kode jelek dulu, refactor nanti'.",
+          "niche_fashion": "Senin = Wardrobe Panic? Berikan mindset 'Style is confidence'. Ajak PD pakai outfit basic.",
+          "niche_foodie": "Senin jangan jajan sembarangan karena stres. Ajak prep meal sederhana/bawa bekal sehat.",
+          "niche_fitness": "Senin 'International Chest Day'? Kritik halus. Sarankan mindset 'Don't skip Monday workout'.",
+          "niche_finance": "Pasar saham buka. Ingatkan jangan FOMO chart pagi-pagi. Mindset 'Investasi jangka panjang'.",
+          "niche_travel": "Post-Holiday Blues? Mindset: 'Kerja keras sekarang, biar bisa liburan mewah nanti'.",
+          "niche_umkm": "Orderan numpuk/sepi? Mindset: 'Cek stok & balas chat adalah kunci closing'."
+        }
+      },
+      {
+        "id": "mon_2",
+        "style": "🔥 Hardcore Motivation (No Excuses)",
+        "templates": {
+          "niche_creator": "Minder lihat portfolio dev lain? 'Code mereka juga pernah error. Fokus progressmu sendiri'.",
+          "niche_fashion": "Insecure sama badan? 'Baju harus pas di badan kamu, bukan sebaliknya'. Embrace your shape!",
+          "niche_foodie": "Masakan gagal? 'Chef jago pun pernah pecahin telur'. Jangan nyerah masak!",
+          "niche_fitness": "Timbangan stuck? 'Lemak pergi pelan-pelan. Konsistensi > Intensitas'. Gerak sekarang!",
+          "niche_finance": "Portofolio merah? 'Kekayaan dibangun saat pasar berdarah'. Stay strong & hold.",
+          "niche_travel": "Iri teman ke Eropa? 'Jadikan bucket list travelmu alasan hustle hari ini'.",
+          "niche_umkm": "Kompetitor banting harga? 'Rezeki gak ketuker. Fokus kualitas, customer loyal datang'."
+        }
+      },
+      {
+        "id": "mon_3",
+        "style": "🎯 Weekly Goals (Action Plan)",
+        "templates": {
+          "niche_creator": "Share targetmu: 'Minggu ini kelarin fitur Login'. Tantang followers tulis 1 target coding mereka.",
+          "niche_fashion": "Target: 'Minggu ini coba mix-match warna earth tone'. Ajak followers drop target style mereka.",
+          "niche_foodie": "Target: 'Hunting Nasi Goreng tek-tek terbaik Jaksel'. Tanya rekomendasi audiens.",
+          "niche_fitness": "Target: '10k langkah/hari + No Sugar'. Tantang followers komit lari 3x seminggu.",
+          "niche_finance": "Target: 'Hemat uang kopi 50% buat beli saham'. Tanya pengeluaran apa yang mau di-cut audiens.",
+          "niche_travel": "Target: 'Riset tiket murah ke Bali'. Tanya destinasi impian audiens bulan ini.",
+          "niche_umkm": "Target: 'Rapihin feed IG & update stok'. Tanya PR bisnis seller lain minggu ini."
+        }
+      },
+      {
+        "id": "mon_4",
+        "style": "🚫 Stop Doing This (Anti-Pattern)",
+        "templates": {
+          "niche_creator": "Stop koding barbar tanpa baca dokumentasi/brief dulu! Ingatkan bahwa 1 jam perencanaan di hari Senin bisa menghemat 10 jam debugging di hari Jumat.",
+          "niche_fashion": "Stop beli baju cuma karena diskon tapi gak muat. Ingatkan tentang 'Mindful Shopping'.",
+          "niche_foodie": "Stop simpan sayur basah di kulkas pakai plastik kresek. Kasih tahu cara simpan biar awet.",
+          "niche_fitness": "Stop latihan perut tiap hari biar sixpack. Jelaskan kalau otot butuh istirahat untuk tumbuh.",
+          "niche_finance": "Stop anggap kartu kredit sebagai uang tambahan. Tegaskan itu adalah hutang.",
+          "niche_travel": "Stop foto tiket pesawat (boarding pass) dan posting di story. Bahaya data pribadi!",
+          "niche_umkm": "Stop spamming di kolom komentar artis buat promosi. Itu bikin brand image jelek."
+        }
+      },
+      {
+        "id": "mon_5",
+        "style": "💬 Quote of The Week (Inspirasi)",
+        "templates": {
+          "niche_creator": "Kutipan Steve Jobs/Linus Torvalds tentang desain atau coding. Hubungkan dengan project minggu ini.",
+          "niche_fashion": "Kutipan Coco Chanel/Vogue tentang gaya abadi. 'Fashion changes, but style endures'.",
+          "niche_foodie": "Kutipan Anthony Bourdain tentang makanan menyatukan orang. Ajak makan enak.",
+          "niche_fitness": "Kutipan Arnold Schwarzenegger tentang rasa sakit dan disiplin. 'No Pain No Gain'.",
+          "niche_finance": "Kutipan Warren Buffet tentang kesabaran dalam investasi.",
+          "niche_travel": "Kutipan Ibnu Battuta: 'Travel leaves you speechless, then turns you into a storyteller'.",
+          "niche_umkm": "Kutipan Bob Sadino tentang keberanian memulai bisnis dari nol."
+        }
+      },
+      {
+        "id": "mon_6",
+        "style": "🤝 Engagement Bait (Small Interaction)",
+        "templates": {
+          "niche_creator": "Absen: 'Kalian tim Dark Mode atau Light Mode?'. Beri alasan lucu kenapa Light Mode itu psikopat.",
+          "niche_fashion": "Absen: 'Sneakers atau Heels buat hari Senin?'. Vote di komentar.",
+          "niche_foodie": "Absen: 'Tim Sarapan Nasi Uduk atau Roti?'. Perang selera dimulai.",
+          "niche_fitness": "Absen: 'Lari pagi atau Gym malam?'. Cari tim olahraga.",
+          "niche_finance": "Absen: 'Gaji masuk langsung habis atau sempat numpang lewat?'. Emoticon nangis.",
+          "niche_travel": "Absen: 'Gunung atau Pantai?'. Pilih tim liburanmu.",
+          "niche_umkm": "Absen: 'Packing pakai Lakban Bening atau Coklat?'. Hal kecil tapi relate sesama seller."
+        }
+      }
+    ],
+    "selasa": [
+      {
+        "id": "tue_1",
+        "style": "🛠️ Hard Skill Tutorial (Quick Tip)",
+        "templates": {
+          "niche_creator": "Shortcut VS Code/Canva rahasia yang bikin kerja 2x lebih cepat. 'Stop lakukan manual!'.",
+          "niche_fashion": "Tutorial 'French Tuck' kemeja. Before vs After biar rapi tapi effortless.",
+          "niche_foodie": "Cara potong bawang tanpa nangis atau agar minyak gak meletup. Life hack dapur.",
+          "niche_fitness": "Form Check Squat! 'Pantat ke belakang, dada tegak'. Cegah sakit lutut.",
+          "niche_finance": "Cara baca Laporan Keuangan 1 menit. Revenue vs Net Profit. Jangan terkecoh omset.",
+          "niche_travel": "Teknik gulung baju di koper (Rolling Method). Muat 2x lebih banyak.",
+          "niche_umkm": "Setting kamera HP buat foto produk modal cahaya matahari. Hasil tajam & terang."
+        }
+      },
+      {
+        "id": "tue_2",
+        "style": "🔍 Tools/Product Review (Bedah Alat)",
+        "templates": {
+          "niche_creator": "Review AI Coding (ChatGPT vs Claude). Tes prompt sama. Siapa menang?",
+          "niche_fashion": "Review bahan Linen vs Katun. Mana paling adem di Indo? Zoom tekstur kain.",
+          "niche_foodie": "Review jajanan minimarket viral. Worth it atau menang hype doang? Rate 1-10.",
+          "niche_fitness": "Review Whey Protein atau Resistance Band. 'Butuh kalau..., gak butuh kalau...'.",
+          "niche_finance": "Review aplikasi pencatat keuangan. Fitur apa yang paling bantu tracking cashflow?",
+          "niche_travel": "Review aplikasi hotel. Tunjukkan fitur 'Price Alert' atau diskon tersembunyi.",
+          "niche_umkm": "Review Printer Thermal atau Ekspedisi. Mana yang jarang macet/telat?"
+        }
+      },
+      {
+        "id": "tue_3",
+        "style": "⚡ Productivity Hack (Work Smarter)",
+        "templates": {
+          "niche_creator": "Teknik 'Time Blocking' coding. Matikan notif HP 2 jam. Bug kelar lebih cepat.",
+          "niche_fashion": "Hack lemari: Susun baju per warna. Pangkas waktu siap-siap pagi.",
+          "niche_foodie": "Food Prep Hack: Bikin bumbu dasar weekend, masak weekday cuma 10 menit.",
+          "niche_fitness": "Siapkan tas gym malam sebelumnya. Taruh depan pintu. Anti skip olahraga.",
+          "niche_finance": "Auto-debit tabungan pas gajian. Hack cegah uang habis buat jajan.",
+          "niche_travel": "Pakai Google Maps 'Saved Places' sebelum berangkat. Gak bingung di lokasi.",
+          "niche_umkm": "Pakai 'Auto-Reply' WA Business. Template jawaban ongkir & stok. Hemat waktu."
+        }
+      },
+      {
+        "id": "tue_4",
+        "style": "📖 Dictionary/Terminologi (Edukasi)",
+        "templates": {
+          "niche_creator": "Apa itu 'API'? Jelaskan pakai analogi Pelayan Restoran biar orang awam paham.",
+          "niche_fashion": "Apa itu 'Capsule Wardrobe'? Konsep punya sedikit baju tapi bisa ratusan gaya.",
+          "niche_foodie": "Apa bedanya 'Saute' dan 'Pan Fry'? Istilah masak biar kelihatan pro.",
+          "niche_fitness": "Apa itu 'Calorie Deficit'? Jelaskan simpel: Masuk < Keluar = Kurus.",
+          "niche_finance": "Apa itu 'Inflasi'? Analogi harga bakso jaman dulu vs sekarang.",
+          "niche_travel": "Apa itu 'Open Jaw Ticket'? Tips tiket berangkat & pulang beda kota.",
+          "niche_umkm": "Apa itu 'COD' (Cash On Delivery)? Plus minus buat seller (rawan retur). "
+        }
+      },
+      {
+        "id": "tue_5",
+        "style": "📋 Checklist/Cheatsheet (Saveable)",
+        "templates": {
+          "niche_creator": "Checklist sebelum Launch Website: SEO, Mobile Responsif, 404 Page, Analytics.",
+          "niche_fashion": "Checklist 'Basic Items' yang wajib ada di lemari cewek/cowok (Kaos putih, Jeans, Blazer).",
+          "niche_foodie": "Checklist bumbu dapur wajib punya buat anak kos biar bisa masak apa aja.",
+          "niche_fitness": "Checklist belanja bulanan sehat (Protein, Sayur, Karbo Kompleks).",
+          "niche_finance": "Checklist kesehatan finansial: Dana Darurat aman? Hutang lunas? Asuransi ada?",
+          "niche_travel": "Checklist dokumen luar negeri: Paspor, Visa, Asuransi Perjalanan, Tiket Pulang.",
+          "niche_umkm": "Checklist packing aman: Bubble wrap tebal, Lakban keliling, Sticker Fragile."
+        }
+      },
+      {
+        "id": "tue_6",
+        "style": "📰 Industry News (Trending)",
+        "templates": {
+          "niche_creator": "Berita Tech: Update terbaru React/Laravel atau bug global. Apa dampaknya buat dev?",
+          "niche_fashion": "Tren Fashion Week terbaru. Warna apa yang bakal hits tahun ini?",
+          "niche_foodie": "Tren kuliner baru (misal: Cromboloni/Seblak). Kenapa bisa viral?",
+          "niche_fitness": "Studi baru tentang kesehatan (misal: bahaya duduk terlalu lama).",
+          "niche_finance": "Berita ekonomi: Kenaikan suku bunga atau harga emas/bitcoin hari ini.",
+          "niche_travel": "Aturan perjalanan baru (Bebas Visa/Syarat Vaksin) ke negara tertentu.",
+          "niche_umkm": "Update kebijakan admin fee Marketplace. Hitung ulang margin kalian!"
+        }
+      }
+    ],
+    "rabu": [
+      {
+        "id": "wed_1",
+        "style": "📊 Case Study (Deep Dive)",
+        "templates": {
+          "niche_creator": "Bedah UX Gojek/Airbnb. Kenapa user betah? Pelajaran buat dev pemula.",
+          "niche_fashion": "Bedah gaya Hailey Bieber/Jennie BP. Breakdown item versi murahnya.",
+          "niche_foodie": "Analisis antrean brand kopi viral. Menang rasa atau marketing?",
+          "niche_fitness": "Bedah transformasi badan aktor action. Latihan & waktu yang dibutuhkan (realistis).",
+          "niche_finance": "Studi kasus: Gaji UMR bisa punya rumah vs Gaji besar tapi terlilit hutang.",
+          "niche_travel": "Analisis destinasi viral yang rusak karena sampah. Edukasi sustainable travel.",
+          "niche_umkm": "Studi kasus brand lokal sukses Go International. Apa strategi awalnya?"
+        }
+      },
+      {
+        "id": "wed_2",
+        "style": "🆚 This vs That (Battle)",
+        "templates": {
+          "niche_creator": "Freelance vs Full-time? Bandingkan gaji & kebebasan waktu.",
+          "niche_fashion": "Thrifting vs Fast Fashion? Harga vs Dampak Lingkungan.",
+          "niche_foodie": "Bubur Diaduk vs Tidak? Kopi Gula Aren vs Americano? Debat seru!",
+          "niche_fitness": "Cardio vs Angkat Beban buat bakar lemak? Mana lebih efektif?",
+          "niche_finance": "Nabung di Bank vs Reksadana? Tunjukkan beda hasil 5 tahun.",
+          "niche_travel": "Solo Travel vs Open Trip? Mana lebih seru buat introvert?",
+          "niche_umkm": "Shopee vs Tokopedia vs TikTok? Bandingkan biaya admin & karakter pembeli."
+        }
+      },
+      {
+        "id": "wed_3",
+        "style": "💡 Lightbulb Moment (Insight)",
+        "templates": {
+          "niche_creator": "Sadar bahwa 'Clean Code' > 'Clever Code'. Investasi masa depan.",
+          "niche_fashion": "Sadar tren itu melelahkan. 'Personal Style' adalah kunci hemat & unik.",
+          "niche_foodie": "Realita 'Makanan sehat gak harus hambar'. Share momen nemu resep diet enak.",
+          "niche_fitness": "Sadar 'Abs made in kitchen'. Olahraga keras percuma kalau makan jorok.",
+          "niche_finance": "Sadar 'Uang alat beli waktu'. Mindset ini ubah cara kerja.",
+          "niche_travel": "Momen nyasar di kota asing malah nemu pengalaman terbaik. 'Getting lost is fun'.",
+          "niche_umkm": "Sadar 'Omset is Vanity, Profit is Sanity'. Jangan kejar angka jual kalau boncos."
+        }
+      },
+      {
+        "id": "wed_4",
+        "style": "🚦 Mid-Week Checkpoint (Evaluasi)",
+        "templates": {
+          "niche_creator": "Rabu = Rebo. Sudah setengah jalan. Fitur apa yang macet? Ayo debug sekarang.",
+          "niche_fashion": "Cek outfit 3 hari ini. Apakah kamu merasa PD? Kalau belum, besok ubah gaya.",
+          "niche_foodie": "Cek kulkas. Sayur mulai layu? Masak sop hari ini sebelum busuk. #AntiFoodWaste.",
+          "niche_fitness": "Sudah olahraga berapa kali senin-selasa? Kalau belum, hari ini wajib gerak!",
+          "niche_finance": "Cek dompet. Pengeluaran 3 hari ini over budget? Rem jajan sampai Jumat.",
+          "niche_travel": "Lagi liburan? Cek sisa uang saku. Jangan sampai hari terakhir makan mie instan.",
+          "niche_umkm": "Cek performa toko. Paket senin-selasa sudah dikirim semua? Jangan telat input resi."
+        }
+      },
+      {
+        "id": "wed_5",
+        "style": "📖 Storytelling (Perjalananku)",
+        "templates": {
+          "niche_creator": "Cerita project pertamaku yang dibayar murah banget. Pelajaran: Know your worth.",
+          "niche_fashion": "Cerita dulu pernah jadi korban mode (salah kostum). Sekarang ketawa kalau ingat.",
+          "niche_foodie": "Cerita kenangan masak bareng ibu/nenek. Rasa yang gak bisa dibeli.",
+          "niche_fitness": "Cerita titik terendah (sakit/obesitas) yang bikin mulai hidup sehat.",
+          "niche_finance": "Cerita rugi investasi pertama kali. Uang hilang, tapi dapat ilmu mahal.",
+          "niche_travel": "Cerita kejadian horor/lucu ketinggalan pesawat atau dicopet. Tips biar gak kejadian lagi.",
+          "niche_umkm": "Cerita orderan pertama kali pecah telur. Senangnya bukan main."
+        }
+      },
+      {
+        "id": "wed_6",
+        "style": "🎤 Audience Spotlight (Shoutout)",
+        "templates": {
+          "niche_creator": "Repost karya follower/dev pemula yang keren. Apresiasi komunitas.",
+          "niche_fashion": "Repost OOTD followers yang pakai hashtagmu. 'Look at this style!'.",
+          "niche_foodie": "Repost hasil recook resepmu dari followers. 'Kalian jago banget masaknya!'.",
+          "niche_fitness": "Repost progress/transformasi klien atau follower. Beri semangat.",
+          "niche_finance": "Jawab pertanyaan bagus dari DM secara detail di feed. 'Studi kasus dari follower'.",
+          "niche_travel": "Repost foto liburan followers. Tanya: 'Lokasinya dimana nih? Cakep'.",
+          "niche_umkm": "Posting testimoni/review bintang 5 customer paling menyentuh hati."
+        }
+      }
+    ],
+    "kamis": [
+      {
+        "id": "thu_1",
+        "style": "⚠️ Common Mistakes (Fatal Error)",
+        "templates": {
+          "niche_creator": "Salah: Belajar semua bahasa sekaligus. Solusi: Fokus satu stack (MERN) sampai jago.",
+          "niche_fashion": "Salah: Pakai terlalu banyak warna/motif. Gunakan '3 Color Rule' biar elegan.",
+          "niche_foodie": "Salah: Masukan bahan pas minyak belum panas. Makanan jadi berminyak & lembek.",
+          "niche_fitness": "Salah: Ego Lifting (beban berat, form hancur). Bahaya cedera permanen.",
+          "niche_finance": "Salah: Gak punya Dana Darurat tapi main saham gorengan. Resep bencana.",
+          "niche_travel": "Salah: Itinerary neraka (terlalu padat). Liburan jadi capek, bukan healing.",
+          "niche_umkm": "Salah: Perang harga lawan pemain besar. Kamu kalah. Tingkatkan value/branding."
+        }
+      },
+      {
+        "id": "thu_2",
+        "style": "🧠 Mitos vs Fakta (Debunking)",
+        "templates": {
+          "niche_creator": "Mitos: 'Harus jago Matematika buat jadi Programmer'. Fakta: Logika > Kalkulus.",
+          "niche_fashion": "Mitos: 'Baju mahal pasti awet'. Fakta: Cek jahitan & bahan, bukan merek.",
+          "niche_foodie": "Mitos: 'MSG bikin bodoh'. Fakta: Aman & ada di tomat/keju. Stop takut mecin.",
+          "niche_fitness": "Mitos: 'Lemak berubah jadi otot'. Fakta: Jaringan beda. Lemak dibakar, otot dibangun.",
+          "niche_finance": "Mitos: 'Investasi butuh modal gede'. Fakta: Mulai dari 10rb perak bisa.",
+          "niche_travel": "Mitos: 'Luar negeri pasti mahal'. Fakta: Tiket negara tetangga sering lebih murah.",
+          "niche_umkm": "Mitos: 'Customer adalah Raja'. Fakta: Toxic customer harus ditinggalkan demi mental."
+        }
+      },
+      {
+        "id": "thu_3",
+        "style": "🕰️ Throwback Thursday (Nostalgia)",
+        "templates": {
+          "niche_creator": "SS web pertamamu yang desainnya norak. 'Kita semua mulai dari nol'.",
+          "niche_fashion": "Foto gaya rambut/baju 10 tahun lalu. 'Apa yang kupikirkan waktu itu?!'.",
+          "niche_foodie": "Foto jajanan SD legendaris yang susah dicari. Ajak nostalgia.",
+          "niche_fitness": "Foto badan sebelum kenal olahraga. Apresiasi proses diri sendiri.",
+          "niche_finance": "Cerita kesalahan atur uang pas gaji pertama. 'Kalau bisa kembali ke masa lalu...'.",
+          "niche_travel": "Foto liburan jaman kamera HP buram. Kenangan paling berkesan?",
+          "niche_umkm": "Foto tempat jualan/packing jaman dulu yang sempit & berantakan."
+        }
+      },
+      {
+        "id": "thu_4",
+        "style": "🥊 Unpopular Opinion (Kontroversi)",
+        "templates": {
+          "niche_creator": "Opini: 'Framework JS kebanyakan ganti tiap minggu itu nyebelin'. Setuju?",
+          "niche_fashion": "Opini: 'Sepatu Crocs itu gak fashionable, cuma nyaman'. Debat yuk.",
+          "niche_foodie": "Opini: 'Martabak Manis itu gak enak kalau kebanyakan topping'.",
+          "niche_fitness": "Opini: 'Cheat Day itu konsep yang salah, bikin binge eating'.",
+          "niche_finance": "Opini: 'Rumah itu liabilitas kalau ditinggali, bukan aset'. Siap didebat.",
+          "niche_travel": "Opini: 'Bali udah terlalu macet, mending ke Lombok/Bajo'.",
+          "niche_umkm": "Opini: 'Ikut Flash Sale marketplace itu rugi bandar buat seller kecil'."
+        }
+      },
+      {
+        "id": "thu_5",
+        "style": "⚙️ How It Works (Process Breakdown)",
+        "templates": {
+          "niche_creator": "Jelaskan cara kerja Internet/DNS secara visual sederhana.",
+          "niche_fashion": "Proses kreatif bikin baju: Dari sketsa, pola, sampai jahit.",
+          "niche_foodie": "Proses fermentasi tempe/yogurt. Sains di balik makanan.",
+          "niche_fitness": "Apa yang terjadi pada tubuh setelah 1 jam lari? Breakdown fisiologis.",
+          "niche_finance": "Cara kerja bunga berbunga (Compound Interest) bikin kaya.",
+          "niche_travel": "Cara kerja bagasi pesawat dari check-in sampai masuk kargo.",
+          "niche_umkm": "Perjalanan paket dari gudang seller sampai ke tangan pembeli."
+        }
+      },
+      {
+        "id": "thu_6",
+        "style": "🆘 Ask for Advice (Rendah Hati)",
+        "templates": {
+          "niche_creator": "Lagi stuck ide konten/coding. 'Kalian mau tutorial apa minggu depan?'.",
+          "niche_fashion": "Bingung pilih warna baju buat event besok. 'Kiri atau Kanan? Bantu pilih!'.",
+          "niche_foodie": "Ada rekomendasi tempat makan Padang enak di daerah X? Lagi ngidam.",
+          "niche_fitness": "Lagi cari playlist lagu workout baru. Drop link Spotify kalian dong.",
+          "niche_finance": "Buku keuangan apa yang mengubah hidup kalian? Butuh bacaan baru.",
+          "niche_travel": "Tas travel backpack atau koper? Lagi galau mau beli yang mana.",
+          "niche_umkm": "Kalian lebih suka packing pakai kardus atau plastik eco-friendly? Survey seller."
+        }
+      }
+    ],
+    "jumat": [
+      {
+        "id": "fri_1",
+        "style": "🎁 Resource Sharing (Freebies)",
+        "templates": {
+          "niche_creator": "5 Web aset grafis/icon gratis (no attribution). 'Save postingan ini'.",
+          "niche_fashion": "List thrift shop online hidden gem (murah & ori). Spill nama toko.",
+          "niche_foodie": "Resep sambal andalan atau link alat masak estetik murah.",
+          "niche_fitness": "Link download planner diet/workout PDF gratis atau Playlist Spotify.",
+          "niche_finance": "Template Excel/Spreadsheet pengatur keuangan buatanmu. 'Komen MAU'.",
+          "niche_travel": "List aplikasi pemantau tiket promo airlines & cara setting notif.",
+          "niche_umkm": "List supplier packaging lucu & murah di marketplace."
+        }
+      },
+      {
+        "id": "fri_2",
+        "style": "💰 Career/Money Tip (Cuan)",
+        "templates": {
+          "niche_creator": "Cara naikin rate freelance. Tawarkan 'Value' (solusi bisnis), bukan cuma 'Coding'.",
+          "niche_fashion": "Tips 'Buy less, choose well'. Hitung 'Cost per Wear' biar gak boros.",
+          "niche_foodie": "Ide bisnis kuliner modal kecil (Sambal botol/Dessert Box). Hitung modalnya.",
+          "niche_fitness": "Hemat uang gym: Workout di taman/rumah & beli suplemen pas diskon.",
+          "niche_finance": "Tips negosiasi gaji first jobber. Jangan terima tawaran pertama.",
+          "niche_travel": "Travel Hacking: Cara kumpulkan miles kartu kredit buat tiket gratis.",
+          "niche_umkm": "Cara hitung HPP yang benar biar gak rugi kena admin fee marketplace."
+        }
+      },
+      {
+        "id": "fri_3",
+        "style": "🧘 Relax & Recharge (Self Care)",
+        "templates": {
+          "niche_creator": "Laptop shutdown! Sentuh rumput (touch grass) weekend ini demi mental.",
+          "niche_fashion": "Jumat malam = Maskeran. Share rutinitas skincare relaksasi.",
+          "niche_foodie": "Comfort food buat nonton series malam ini. Makanan yang bikin hati hangat.",
+          "niche_fitness": "Pentingnya 'Rest Day'. Otot tumbuh saat tidur, bukan saat dilatih.",
+          "niche_finance": "Jangan cek portofolio weekend. Matikan notif saham. Nikmati hidup.",
+          "niche_travel": "Staycation dalam kota juga travel. Nikmati kasur empuk hotel besok.",
+          "niche_umkm": "Owner juga manusia. Letakkan HP, bisnis gak bangkrut ditinggal tidur."
+        }
+      },
+      {
+        "id": "fri_4",
+        "style": "🤝 Collab/Partner Shoutout (Networking)",
+        "templates": {
+          "niche_creator": "Terima kasih buat tool/library open source ini yang bikin kerjaan enteng.",
+          "niche_fashion": "Shoutout ke brand lokal/fotografer yang sering kerjasama. Support lokal!",
+          "niche_foodie": "Terima kasih ke abang sayur/supplier langganan yang bahannya selalu segar.",
+          "niche_fitness": "Shoutout ke gym buddy/partner lari yang bikin semangat konsisten.",
+          "niche_finance": "Rekomendasi akun finance lain yang ilmunya daging banget. Wajib follow.",
+          "niche_travel": "Shoutout ke tour guide/driver lokal yang ramah banget pas trip kemarin.",
+          "niche_umkm": "Terima kasih ke kurir ekspedisi yang hujan-hujan tetap pick-up paket."
+        }
+      },
+      {
+        "id": "fri_5",
+        "style": "🏆 Weekly Win (Celebration)",
+        "templates": {
+          "niche_creator": "Rayakan bug yang akhirnya fixed setelah 3 hari. Kemenangan kecil!",
+          "niche_fashion": "Berhasil nahan diri gak belanja impulsif minggu ini. Prestasi!",
+          "niche_foodie": "Berhasil masak menu baru dan rasanya enak. Chef kiss!",
+          "niche_fitness": "Berhasil olahraga 4x minggu ini tanpa bolos. Tepuk tangan buat diri sendiri.",
+          "niche_finance": "Berhasil sisihkan uang investasi sesuai target. Masa depan aman.",
+          "niche_travel": "Berhasil booking tiket liburan impian. Countdown dimulai!",
+          "niche_umkm": "Berhasil packing semua orderan on-time tanpa salah kirim."
+        }
+      },
+      {
+        "id": "fri_6",
+        "style": "⚡ Flash Sale/Soft Promo (Jualan)",
+        "templates": {
+          "niche_creator": "Slot jasa pembuatan web bulan depan sisa 1. Siapa cepat dia dapat.",
+          "niche_fashion": "Baju preloved koleksiku naik di story jam 7 malam. Pasang alarm!",
+          "niche_foodie": "PO (Pre-Order) menu spesial weekend dibuka. Slot terbatas banget.",
+          "niche_fitness": "Diskon personal training khusus pendaftaran hari ini. New Body soon!",
+          "niche_finance": "Promo bundling e-book keuangan + template excel. Link di bio.",
+          "niche_travel": "Open Trip tanggal sekian sisa 2 seat. Harga Early Bird terakhir.",
+          "niche_umkm": "Jumat Berkah! Diskon kilat produk best seller cuma sampai jam 12 malam."
+        }
+      }
+    ],
+    "sabtu": [
+      {
+        "id": "sat_1",
+        "style": "🎬 Behind The Scene (Unfiltered)",
+        "templates": {
+          "niche_creator": "Foto meja kerja berantakan, kopi, kabel ruwet. 'Realita di balik kodingan rapi'.",
+          "niche_fashion": "Kamar kapal pecah habis sesi foto OOTD. Effort di balik foto estetik.",
+          "niche_foodie": "Dapur kotor penuh cucian piring habis konten masak. Apresiasi tim cuci piring!",
+          "niche_fitness": "Muka jelek keringetan tanpa filter habis olahraga. 'Glowing karena keringat'.",
+          "niche_finance": "Foto tumpukan buku/catatan riset saham. Trading butuh belajar, bukan judi.",
+          "niche_travel": "Realita travel: Nunggu delay, geret koper berat, kaki pegal. Sisi capeknya.",
+          "niche_umkm": "Timelapse packing ratusan paket sendirian. Kerja keras 'One Man Show'."
+        }
+      },
+      {
+        "id": "sat_2",
+        "style": "😂 Entertainment/Meme (Fun)",
+        "templates": {
+          "niche_creator": "Meme: 'Di laptop jalan, di server error'. Relate banget.",
+          "niche_fashion": "Meme: Ekspektasi beli baju online vs Realita pas dipake. Zonk!",
+          "niche_foodie": "Video lucu ekspresi kepedesan atau gagal makan estetik.",
+          "niche_fitness": "Meme: Jalan kayak pinguin habis Leg Day.",
+          "niche_finance": "Meme: Saldo ATM tgl 1 vs tgl 25. Humor tragis sobat miskin.",
+          "niche_travel": "Meme: 'Mau liburan tapi dompet bilang jangan'.",
+          "niche_umkm": "Meme: Bunyi notif 'Shopee' (Senang) vs 'Tagihan' (Panik)."
+        }
+      },
+      {
+        "id": "sat_3",
+        "style": "🎮 Hobby Reveal (Personal Side)",
+        "templates": {
+          "niche_creator": "Hobi non-tech: Main musik/naik gunung. 'Biar gak bungkuk depan laptop'.",
+          "niche_fashion": "Hobi wibu: Nonton Anime/Baca Manga. Sisi geeky di balik stylish.",
+          "niche_foodie": "Hobi bakar kalori: Sepedaan/Renang. 'Imbangi makan enak'.",
+          "niche_fitness": "Share 'Cheat Meal' favorit (Martabak/Pizza). Coach juga manusia.",
+          "niche_finance": "Hobi murah: Berkebun/Main sama kucing. Bahagia gak harus mahal.",
+          "niche_travel": "Kegiatan di rumah: Masak/Crafting. Sisi 'Homebody' traveler.",
+          "niche_umkm": "Waktu main sama anak/keluarga. 'Alasan kerja keras bangun bisnis'."
+        }
+      },
+      {
+        "id": "sat_4",
+        "style": "🗳️ This or That Poll (Survey)",
+        "templates": {
+          "niche_creator": "Poll: Kerja Remote (Di Rumah) atau WFO (Di Kantor)?",
+          "niche_fashion": "Poll: Tas Ransel atau Tote Bag? Mana yang lebih fungsional?",
+          "niche_foodie": "Poll: Makan Mie Kuah atau Mie Goreng pas hujan?",
+          "niche_fitness": "Poll: Olahraga pakai musik atau dengerin podcast?",
+          "niche_finance": "Poll: Punya rumah sendiri (KPR) atau Ngontrak seumur hidup?",
+          "niche_travel": "Poll: Duduk di Window Seat (Pemandangan) atau Aisle (Gampang ke WC)?",
+          "niche_umkm": "Poll: Lebih senang dapat orderan banyak receh atau sedikit tapi nominal besar?"
+        }
+      },
+      {
+        "id": "sat_5",
+        "style": "📍 Local Spot/Recommendation (Jalan-Jalan)",
+        "templates": {
+          "niche_creator": "Rekomendasi Coffee Shop yang wifi-nya kencang & colokan banyak buat kerja.",
+          "niche_fashion": "Spot foto estetik di kotamu yang gratis tapi instagramable.",
+          "niche_foodie": "Hidden Gem warung kaki lima legendaris di kota ini. Wajib coba.",
+          "niche_fitness": "Taman kota atau jogging track yang enak dan sejuk buat lari pagi.",
+          "niche_finance": "Tempat belanja grosir murah meriah buat stok bulanan.",
+          "niche_travel": "Museum atau taman kota yang seru buat dikunjungi weekend ini.",
+          "niche_umkm": "Tempat beli perlengkapan packing/atk murah di kota ini."
+        }
+      },
+      {
+        "id": "sat_6",
+        "style": "👪 Family/Friends Time (Life Balance)",
+        "templates": {
+          "niche_creator": "Foto nongkrong bareng teman non-programmer. 'Ngobrolin hal selain koding'.",
+          "niche_fashion": "Jalan-jalan bareng bestie/keluarga. Outfit santai tanpa makeup tebal.",
+          "niche_foodie": "Masak besar buat keluarga di rumah. Momen makan bareng.",
+          "niche_fitness": "Ajak pasangan/teman olahraga bareng. 'Couple workout goal'.",
+          "niche_finance": "Quality time murah meriah bareng keluarga di rumah. Nonton film.",
+          "niche_travel": "Video call sama orang tua kalau lagi merantau/traveling. Obat rindu.",
+          "niche_umkm": "Libur jualan sehari. Fokus main sama anak. 'Mereka bos sebenarnya'."
+        }
+      }
+    ],
+    "minggu": [
+      {
+        "id": "sun_1",
+        "style": "📅 Weekly Recap & Plan (Review)",
+        "templates": {
+          "niche_creator": "Recap: Deploy apa minggu ini? Bug apa yang sisa? Set target besok.",
+          "niche_fashion": "Outfit Recap: 5 look minggu ini. Mana favorit kalian?",
+          "niche_foodie": "Food Recap: Makanan terenak minggu ini. Bikin ngiler.",
+          "niche_fitness": "Weigh-in: Cek berat badan/lingkar perut. Progress kecil tetap progress.",
+          "niche_finance": "Market Recap: Apa yang terjadi di saham/crypto minggu ini? Prediksi besok.",
+          "niche_travel": "Recap foto: Pilih 1 foto sisa liburan yang belum diposting. Story-nya apa?",
+          "niche_umkm": "Laporan Toko: Berapa paket terkirim? Evaluasi performa transparan."
+        }
+      },
+      {
+        "id": "sun_2",
+        "style": "🙋‍♀️ Q&A Session (Ask Me)",
+        "templates": {
+          "niche_creator": "Q&A: Tanya soal coding, karir, atau setup desk. Jawab di Story.",
+          "niche_fashion": "Q&A: Bingung mix-match baju buat acara? Komen, aku styling-in.",
+          "niche_foodie": "Q&A: Bingung masak apa besok? Sebut 3 bahan, aku kasih ide menu.",
+          "niche_fitness": "Q&A: Mitos diet apa yang bikin bingung? Sini aku luruskan.",
+          "niche_finance": "Q&A: Masalah keuangan apa yang bikin pusing? Curhat sini.",
+          "niche_travel": "Q&A: Mau tips budget trip kemana? Aku kasih estimasi biaya.",
+          "niche_umkm": "Q&A: Mentok ide jualan atau bingung hadapi customer? Diskusi yuk."
+        }
+      },
+      {
+        "id": "sun_3",
+        "style": "🚀 Get Ready for Monday (Preparation)",
+        "templates": {
+          "niche_creator": "Minggu malam: Rapikan desktop, update OS. Senin tinggal gas koding.",
+          "niche_fashion": "Prepare Outfit: Setrika baju buat Senin-Rabu. Senin pagi anti ribet.",
+          "niche_foodie": "Meal Plan: Tulis menu seminggu. Belanja sekarang biar besok gak bingung.",
+          "niche_fitness": "Jadwalkan workout di kalender. Anggap meeting penting gak boleh cancel.",
+          "niche_finance": "Cek kalender ekonomi minggu depan (Inflasi/Suku Bunga). Siapkan strategi.",
+          "niche_travel": "Unpacking koper segera. Cuci baju kotor, simpan paspor aman.",
+          "niche_umkm": "Cek stok packing (lakban/bubble wrap). Jangan panik Senin pagi habis."
+        }
+      },
+      {
+        "id": "sun_4",
+        "style": "📢 Soft Sell / Promo (Storytelling)",
+        "templates": {
+          "niche_creator": "Cerita masalah klien yang selesai. 'Butuh solusi web serupa? DM saya'.",
+          "niche_fashion": "Foto OOTD. 'Lucu kan? Link belinya di bio no. 5 ya bestie'.",
+          "niche_foodie": "Video masak pakai alat tertentu. 'Pancinya beli di keranjang kuning'.",
+          "niche_fitness": "Testimoni klien turun BB. 'Slot coaching sisa 2. Siapa cepat dia dapat'.",
+          "niche_finance": "Cuplikan kelas keuangan. 'Belajar atur gaji lebih detail, klik link bio'.",
+          "niche_travel": "Share preset Lightroom. 'Mau foto warnanya gini? Pake presetku yuk'.",
+          "niche_umkm": "Info promo 'Minggu Ceria'. Diskon habis jam 12 malam. Besok harga normal."
+        }
+      },
+      {
+        "id": "sun_5",
+        "style": "🙏 Gratitude Post (Syukur)",
+        "templates": {
+          "niche_creator": "Bersyukur bisa kerja remote. Terima kasih klien & followers yang support.",
+          "niche_fashion": "Bersyukur punya komunitas fashion yang positif. Kalian moodbooster!",
+          "niche_foodie": "Bersyukur masih bisa makan enak hari ini. Jangan lupa berbagi.",
+          "niche_fitness": "Bersyukur tubuh sehat & bisa gerak. Kesehatan adalah aset termahal.",
+          "niche_finance": "Bersyukur atas rezeki minggu ini, sekecil apapun profitnya.",
+          "niche_travel": "Bersyukur pernah melihat keindahan alam ini. Tuhan Maha Baik.",
+          "niche_umkm": "Terima kasih customer yang sudah order minggu ini. Kalian menghidupi mimpi kami."
+        }
+      },
+      {
+        "id": "sun_6",
+        "style": "🗳️ Market Research (Survey)",
+        "templates": {
+          "niche_creator": "Bulan depan enaknya bahas apa? A. Tutorial React, B. Tips Freelance?",
+          "niche_fashion": "Kalian lebih butuh konten apa? A. Inspirasi Kantor, B. Inspirasi Hangout?",
+          "niche_foodie": "Next video masak apa? A. Masakan Rumahan, B. Jajanan Viral?",
+          "niche_fitness": "Request konten dong: A. Latihan di Rumah, B. Tips Diet Murah?",
+          "niche_finance": "Mau dibahasin apa? A. Saham, B. Reksa Dana, C. Manajemen Hutang?",
+          "niche_travel": "Konten selanjutnya enaknya kemana? A. Pantai, B. Gunung?",
+          "niche_umkm": "Mau produk baru apa? A. Warna Pastel, B. Warna Gelap? Bantu vote!"
+        }
+      }
+    ]
+  }
+}
